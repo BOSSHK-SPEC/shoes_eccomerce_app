@@ -1,7 +1,5 @@
 # shoe_stores
 
-An app to implement a dribbble design on https://dribbble.com/shots/20449197-Marketplace-Mobile-App-Concept-Tokosmile
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
