@@ -176,7 +176,7 @@ class _CustomerHomeScreenState extends State<CustomerHomeScreen> {
                           ),
                         ),
                         Text(
-                          'See more',
+                          'See  more',
                           style: getMediumStyle(
                             color: primaryColor,
                           ),
