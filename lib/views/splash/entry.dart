@@ -33,8 +33,6 @@ class _EntryScreenState extends State<EntryScreen> {
   }
 
 
-
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(

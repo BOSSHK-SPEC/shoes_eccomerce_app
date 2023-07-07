@@ -12,9 +12,7 @@ class Products with ChangeNotifier {
     } else {
       product = _recommendProducts.firstWhere((product) => product.id == id);
     }
-    //
-    // Product product =
-    //     _availableProducts.firstWhere((product) => product.id == id);
+
     product.toggleFavorite();
     notifyListeners();
   }

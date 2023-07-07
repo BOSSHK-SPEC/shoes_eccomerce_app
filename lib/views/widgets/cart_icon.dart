@@ -1,4 +1,4 @@
-import 'package:badges/badges.dart';
+import 'package:badges/badges.dart' as badges;
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:shoe_stores/controllers/route_manager.dart';
@@ -17,10 +17,10 @@ class CartIcon extends StatelessWidget {
 
     return InkWell(
       onTap: () => Navigator.of(context).pushNamed(RouteManager.cartScreen),
-      child: Badge(
-        position: const BadgePosition(start: 15, bottom: 30),
+      child: badges.Badge( // Use 'badges' as the prefix
+        position: const badges.BadgePosition(start: 15, bottom: 30),
         badgeColor: notifBg,
-        shape: BadgeShape.square,
+        shape: badges.BadgeShape.square,
         borderRadius: BorderRadius.circular(5),
         padding: const EdgeInsets.fromLTRB(6, 0, 6, 2),
         badgeContent: Text(
