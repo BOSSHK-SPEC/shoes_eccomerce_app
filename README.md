@@ -21,3 +21,6 @@ https://github.com/BOSSHK-SPEC/shoes_eccomerce_app/blob/master/screenshots/Scree
 
 ![Screenshot](https://github.com/BOSSHK-SPEC/shoes_eccomerce_app/raw/master/screenshots/Screenshot_20230508_082503.png)
 
+![Screenshot](https://raw.githubusercontent.com/BOSSHK-SPEC/shoes_eccomerce_app/master/screenshots/Screenshot_20230508_082503.png)
+
+
