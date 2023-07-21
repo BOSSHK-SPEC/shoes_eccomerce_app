@@ -1,39 +1,14 @@
-![Screenshot_20230508_105112](https://github.com/BOSSHK-SPEC/shoes_eccomerce_app/assets/84731518/d558c46c-7b76-4552-b742-26e1398e8b47)
-![Uploading Screenshot_20230508_094554.png…]()
-![Uploading Screenshot_20230508_091103.png…]()
-![Uploading Screenshot_20230508_090919.png…]()
-![Uploading Screenshot_20230508_090844.png…]()
-![Uploading Screenshot_20230508_090821.png…]()
-![Uploading Screenshot_20230508_082535.png…]()
-![Uploading Screenshot_20230508_082525.png…]()
-![Uploading Screenshot_20230508_082513.png…]()
-![Uploading Screenshot_20230508_082503.png…]()
-![Uploading product_2.png…]()
-![Uploading order14.png…]()
-![Uploading order13.png…]()
-![Uploading order12.png…]()
-![Uploading order11.png…]()
-![Uploading order3.png…]()
-![Uploading order2.png…]()![Uploading Screenshot_20230508_091137.png…]()
 
-![Uploading order1.png…]()
-![Uploading nike6.png…]()
-![Uploading nike5.png…]()
-![Uploading nike4.png…]()
-![Uploading nike3.png…]()
-![Uploading nike2.png…]()
-![Uploading nike.png…]()
-![Uploading cart11.png…]()
-![Uploading cart2.png…]()
+
 # shoe_stores
 
 ## An Ecommerce application 
 
 
-![Screenshot_20230508_082503](https://github.com/BOSSHK-SPEC/shoes_eccomerce_app/assets/84731518/5f17afe0-9b5e-47de-97d6-da207772bc3f)
 
-
-
-
-![Uploading cart.png…]()
-![Uploading store.png…]()
+![Screenshot_20230508_082503](https://github.com/BOSSHK-SPEC/shoes_eccomerce_app/assets/84731518/acd342b9-6019-4caf-95db-9ba91f0ea330)
+![Screenshot_20230508_090821](https://github.com/BOSSHK-SPEC/shoes_eccomerce_app/assets/84731518/c921ecc9-d1a6-47f1-b6ec-19f4ff54adea)
+![nike](https://github.com/BOSSHK-SPEC/shoes_eccomerce_app/assets/84731518/227c5f49-3a68-4bfe-ab97-c52c06dc377e)
+![nike4](https://github.com/BOSSHK-SPEC/shoes_eccomerce_app/assets/84731518/c84d3daa-6fd0-434b-816e-d687df3d70ed)
+![store](https://github.com/BOSSHK-SPEC/shoes_eccomerce_app/assets/84731518/52e43ec1-e404-4014-88f4-1d537de7cc49)
+![order14](https://github.com/BOSSHK-SPEC/shoes_eccomerce_app/assets/84731518/4bcc5f4e-00da-4f37-bac2-0eef6dc99535)
