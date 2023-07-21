@@ -16,7 +16,7 @@ samples, guidance on mobile development, and a full API reference.
 
 https://github.com/BOSSHK-SPEC/shoes_eccomerce_app/blob/master/screenshots/Screenshot_20230508_082503.png
 
-![alt text](https://github.com/BOSSHK-SPEC/shoes_eccomerce_app/blob/master/screenshots/Screenshot_20230508_082503.png,
+![alt text](https://github.com/BOSSHK-SPEC/shoes_eccomerce_app/blob/master/screenshots/Screenshot_20230508_082503.png
 ?raw=true)
 
 
